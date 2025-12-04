@@ -1,4 +1,5 @@
 Course Title: Physics II
+
 Course Cose: PHY 123
 
 ==============================
@@ -28,7 +29,9 @@ Md Olid Ahmed Oli
 ==============================
 
 Batch: CSE-63
+
 Section: B
+
 Department: Computer Science & Engineering
 
 ==============================
