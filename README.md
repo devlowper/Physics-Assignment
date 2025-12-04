@@ -6,8 +6,11 @@ Course Cose: PHY 123
 
 Submitted to:
 Safwan Uddin Ahmed
+
 Assistant Professor & Head
+
 Department of Electrical & Electrical Engineering
+
 Metropolitan University, Sylhet
 
 ==============================
